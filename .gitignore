@@ -1,11 +1,15 @@
 # Prerequisites
 *.d
 
+#compiled programs
+build/
+
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+/*.out
 
 # Precompiled Headers
 *.gch
