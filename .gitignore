@@ -3,7 +3,7 @@
 
 #compiled programs
 build/
-
+.vscode/
 # Compiled Object files
 *.slo
 *.lo
